@@ -2,7 +2,7 @@
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YjczMzA0NDQxODAwZTgyNzMzYjVmMjc3OWMyOTU5YiIsInN1YiI6IjY0ZGY2MGQ3ZTE5ZGU5MDEzYTI3Y2MzNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.90bdXugy78rKSKoqUy8AMXTZX4tmDW2404VxuBXMfgg'
+      Authorization: API_KEY,
     }
   };
 
